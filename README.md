@@ -21,6 +21,9 @@ nodetool status
 
 # Prepare example keyspace and table
 cqlsh -f files/setup-nobel.sql
+
+# Check table
+cqlsh -e "SELECT * FROM nobel.laureates"
 ```
 
 ## Cluster topology

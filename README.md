@@ -1,4 +1,4 @@
-# Óbudai Egyetem - Cassandra Demo
+# Cassandra Demo
 
 This repository contains the example code for the Cassandra demo.
 
